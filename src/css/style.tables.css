@@ -11,6 +11,10 @@ table th {
     padding: 5px 8px;
 }
 
+table td {
+    color: #575757;
+}
+
 table th:first-child,
 table td:first-child {
     padding-left: 8px;
