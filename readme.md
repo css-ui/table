@@ -1,3 +1,3 @@
 ## Table
 
-Simple table styles.
+Simple table styles, based on CSS UI.
