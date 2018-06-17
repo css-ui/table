@@ -8,7 +8,8 @@ table {
 
 table td,
 table th {
-    padding: 5px 8px;
+    font-weight: 600;
+        padding: 5px 8px;
 }
 
 table td {
