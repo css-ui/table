@@ -1,7 +1,6 @@
 
-/*
-    tables
-*/
+/* table
+   ========================================================================== */
 table {
     border-collapse: collapse;
 }
@@ -9,7 +8,7 @@ table {
 table td,
 table th {
     font-weight: 600;
-        padding: 4px 7px;
+    padding: 4px 7px;
 }
 
 table td {
@@ -21,81 +20,77 @@ table td:first-child {
     padding-left: 8px;
 }
 
-/*
-    default
-*/
+/* default
+   ========================================================================== */
 table tr.default th {
-    border: none;
+    border: 0;
 }
 
 table tr.default td {
-    border: none;
+    border: 0;
 }
 
 table tr.default:nth-child(even) {
-    background-color: #f2f2f2;
+    background: #f2f2f2;
 }
 
 table tr.default:nth-child(odd)  {
-    background-color: white;
+    background: #fff;
 }
 
-/*
-    primary
-*/
+/* primary
+   ========================================================================== */
 table tr.primary th {
-    border: none;
+    border: 0;
 }
 
 table tr.primary td {
-    border: none;
-     color: #27667b;
+    border: 0;
+    color: #27667b;
 }
 
 table tr.primary:nth-child(even) td {
-    background-color: #c1edfb;
+    background: #c1edfb;
 }
 
 table tr.primary:nth-child(odd) td  {
-    background-color: white;
+    background: #fff;
 }
 
-/*
-    success
-*/
+/* success
+   ========================================================================== */
 table tr.success th {
     border: none;
 }
 
 table tr.success td {
-    border: none;
-     color: #277b35;
+    border: 0;
+    color: #277b35;
 }
 
 table tr.success:nth-child(even) td {
-    background-color: #bdf3c4;
+    background: #bdf3c4;
 }
 
 table tr.success:nth-child(odd) td  {
-    background-color: white;
+    background: #fff;
 }
 
-/*
-    warning
-*/
+/* warning
+   ========================================================================== */
 table tr.warning th {
-    border: none;
+    border: 0;
 }
 
 table tr.warning td {
-    border: none;
-     color: #7b2727;
+    border: 0;
+    color: #7b2727;
 }
 
 table tr.warning:nth-child(even) td {
-    background-color: #f5b9b9;
+    background: #f5b9b9;
 }
 
 table tr.warning:nth-child(odd) td  {
-    background-color: white;
+    background: #fff;
 }
