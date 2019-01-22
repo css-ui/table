@@ -33,9 +33,9 @@ Use Open Sans fotns.
 font-family: 'Open Sans', sans-serif;
 ```
 
-Class: ```default```, ```primary```, ```success``` and ```warning```
-
 Table html.
+
+Class: ```default```, ```primary```, ```success``` and ```warning```
 
 ```html
 <table class="full width">
