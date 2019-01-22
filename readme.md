@@ -1,4 +1,4 @@
-## Table
+## CSS UI - Table
 
 Simple table styles.
 
