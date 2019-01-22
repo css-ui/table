@@ -27,14 +27,10 @@ CSS menu style.
 <link rel="stylesheet" href="path/to/style.tables.css">
 ```
 
-Set font.
+Use Open Sans fotns.
 
-```html
-<style>
-	body {
-		font-family: 'Open Sans', sans-serif;
-	}
-</style>
+```css
+font-family: 'Open Sans', sans-serif;
 ```
 
 Class:
