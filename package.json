@@ -1,0 +1,22 @@
+{
+	"name": "css-ui-table",
+	"version": "1.0.8",
+	"description": "Simple table.",
+	"main": "css/style.table.css",
+	"repository": {
+		"type": "git",
+		"url": "git+https://accgit@github.com/css-ui/table.git"
+	},
+	"keywords": [
+		"table"
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/css-ui/table/issues"
+	},
+	"dependencies": {
+		"css-ui-simple": "^2.5.1",
+		"open-sans-fontface": "^1.4.0"
+	},
+	"homepage": "https://github.com/css-ui/table#readme"
+}

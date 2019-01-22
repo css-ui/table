@@ -7,6 +7,7 @@ Simple table styles.
 ```
 npm install --save css-ui-table
 ```
+
 ## Demo
 
 - https://css-ui.github.io/table/
