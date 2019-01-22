@@ -21,7 +21,7 @@ CSS dependencies.
 <link rel="stylesheet" href="path/to/cssui.css">
 ```
 
-CSS menu style.
+CSS table.
 
 ```html
 <link rel="stylesheet" href="path/to/style.tables.css">
